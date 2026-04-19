@@ -14,6 +14,9 @@ This project uses:
 - scipy
 - matplotlib
 
+Install the required packages:
+pip install numpy scipy matplotlib
+
 ## How to Run
 ```bash
 python project7.py
