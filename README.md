@@ -6,7 +6,7 @@ This project solves and visualizes the Lorenz system, shows the butterfly effect
 ## Files
 - `project7.py` - main program
 - `README.md` - install and run instructions
-- screenshots used in the documentation
+- Documentation report paper
 
 ## Packages
 This project uses:
